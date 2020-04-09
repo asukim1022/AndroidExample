@@ -1,4 +1,4 @@
-package com.example.administrator.baselistview;
+package com.example.administrator.savejsonlist;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
